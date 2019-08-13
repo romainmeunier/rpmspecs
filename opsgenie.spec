@@ -78,5 +78,5 @@ rm -rf %{pypi_name}.egg-info
 %{python3_sitelib}/opsgenie_sdk-%{version}-py%{python3_version}.egg-info
 
 %changelog
-* Tue Aug 13 2019 John Doe <john@doe.com> - 0.3.1-1
-- Initial package.
+* Tue Aug 13 2019 root - 0.3.1-1
+- Initial package
